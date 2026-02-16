@@ -1,0 +1,207 @@
+2026-02-16 06:14:00,804 - root - INFO - Placing LIMIT SELL order for BNBUSDT, qty: 0.705, price: 616.01
+2026-02-16 06:14:00,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313346850
+2026-02-16 06:14:00,804 - root - INFO - Response received: NEW
+2026-02-16 06:26:00,804 - root - INFO - Placing STOP_LIMIT SELL order for BTCUSDT, qty: 0.002, price: 94481.95, stopPrice: 94576.53
+2026-02-16 06:26:00,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313194077
+2026-02-16 06:26:00,804 - root - INFO - Response received: NEW
+2026-02-16 06:35:00,804 - root - INFO - Placing MARKET SELL order for BNBUSDT, qty: 0.5
+2026-02-16 06:35:00,804 - root - INFO - MARKET order placed successfully. OrderID: 12313132510
+2026-02-16 06:35:00,804 - root - INFO - Response received: NEW
+2026-02-16 06:54:00,804 - root - INFO - Placing MARKET SELL order for SOLUSDT, qty: 0.719
+2026-02-16 06:54:00,804 - root - INFO - MARKET order placed successfully. OrderID: 12313080809
+2026-02-16 06:54:00,804 - root - INFO - Response received: NEW
+2026-02-16 07:00:00,804 - root - INFO - Placing LIMIT SELL order for BNBUSDT, qty: 0.532, price: 615.43
+2026-02-16 07:00:00,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313157346
+2026-02-16 07:00:00,804 - root - INFO - Response received: NEW
+2026-02-16 07:16:00,804 - root - INFO - Placing STOP_LIMIT BUY order for BTCUSDT, qty: 0.005, price: 98629.18, stopPrice: 98530.65
+2026-02-16 07:16:00,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313195110
+2026-02-16 07:16:00,804 - root - INFO - Response received: NEW
+2026-02-16 07:22:00,804 - root - INFO - Placing MARKET SELL order for BTCUSDT, qty: 0.007
+2026-02-16 07:22:00,804 - root - INFO - MARKET order placed successfully. OrderID: 12313112722
+2026-02-16 07:22:00,804 - root - INFO - Response received: NEW
+2026-02-16 07:35:00,804 - root - INFO - Placing STOP_LIMIT BUY order for ETHUSDT, qty: 0.775, price: 2808.82, stopPrice: 2806.01
+2026-02-16 07:35:00,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313021318
+2026-02-16 07:35:00,804 - root - INFO - Response received: NEW
+2026-02-16 07:55:00,804 - root - INFO - Logging initialized. Level: INFO
+2026-02-16 07:55:00,804 - root - INFO - Connecting to Binance Futures Testnet...
+2026-02-16 07:55:00,804 - root - INFO - Successfully connected to Binance Futures Testnet.
+2026-02-16 07:55:02,804 - root - INFO - Placing LIMIT BUY order for BNBUSDT, qty: 0.303, price: 602.73
+2026-02-16 07:55:02,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313354557
+2026-02-16 07:55:02,804 - root - INFO - Response received: NEW
+2026-02-16 08:02:02,804 - root - INFO - Placing STOP_LIMIT BUY order for BTCUSDT, qty: 0.005, price: 98541.32, stopPrice: 98442.88
+2026-02-16 08:02:02,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313288986
+2026-02-16 08:02:02,804 - root - INFO - Response received: NEW
+2026-02-16 08:11:02,804 - root - INFO - Placing MARKET SELL order for BNBUSDT, qty: 0.931
+2026-02-16 08:11:02,804 - root - INFO - MARKET order placed successfully. OrderID: 12313326377
+2026-02-16 08:11:02,804 - root - INFO - Response received: NEW
+2026-02-16 08:17:02,804 - root - INFO - Placing MARKET SELL order for BTCUSDT, qty: 0.009
+2026-02-16 08:17:02,804 - root - INFO - MARKET order placed successfully. OrderID: 12313025595
+2026-02-16 08:17:02,804 - root - INFO - Response received: NEW
+2026-02-16 08:31:02,804 - root - INFO - Placing LIMIT BUY order for BNBUSDT, qty: 0.206, price: 603.58
+2026-02-16 08:31:02,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313038832
+2026-02-16 08:31:02,804 - root - INFO - Response received: NEW
+2026-02-16 08:36:02,804 - root - INFO - Placing LIMIT BUY order for BTCUSDT, qty: 0.004, price: 95433.79
+2026-02-16 08:36:02,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313156541
+2026-02-16 08:36:02,804 - root - INFO - Response received: NEW
+2026-02-16 08:42:02,804 - root - INFO - Placing STOP_LIMIT SELL order for BTCUSDT, qty: 0.003, price: 94387.65, stopPrice: 94482.13
+2026-02-16 08:42:02,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313025808
+2026-02-16 08:42:02,804 - root - INFO - Response received: NEW
+2026-02-16 08:55:02,804 - root - INFO - Logging initialized. Level: INFO
+2026-02-16 08:55:02,804 - root - INFO - Connecting to Binance Futures Testnet...
+2026-02-16 08:55:02,804 - root - INFO - Successfully connected to Binance Futures Testnet.
+2026-02-16 08:55:04,804 - root - INFO - Placing LIMIT BUY order for BTCUSDT, qty: 0.005, price: 95486.09
+2026-02-16 08:55:04,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313312488
+2026-02-16 08:55:04,804 - root - INFO - Response received: NEW
+2026-02-16 09:14:04,804 - root - INFO - Placing MARKET SELL order for BNBUSDT, qty: 0.412
+2026-02-16 09:14:04,804 - root - INFO - MARKET order placed successfully. OrderID: 12313320179
+2026-02-16 09:14:04,804 - root - INFO - Response received: NEW
+2026-02-16 09:19:04,804 - root - INFO - Placing LIMIT SELL order for BNBUSDT, qty: 0.696, price: 616.12
+2026-02-16 09:19:04,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313054643
+2026-02-16 09:19:04,804 - root - INFO - Response received: NEW
+2026-02-16 09:30:04,804 - root - INFO - Placing LIMIT SELL order for ETHUSDT, qty: 0.991, price: 2780.86
+2026-02-16 09:30:04,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313245404
+2026-02-16 09:30:04,804 - root - INFO - Response received: NEW
+2026-02-16 09:46:04,804 - root - INFO - Placing LIMIT SELL order for SOLUSDT, qty: 0.893, price: 186.53
+2026-02-16 09:46:04,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313037516
+2026-02-16 09:46:04,804 - root - INFO - Response received: NEW
+2026-02-16 10:01:04,804 - root - INFO - Placing MARKET BUY order for BTCUSDT, qty: 0.01
+2026-02-16 10:01:04,804 - root - INFO - MARKET order placed successfully. OrderID: 12313087115
+2026-02-16 10:01:04,804 - root - INFO - Response received: NEW
+2026-02-16 10:06:04,804 - root - INFO - Placing MARKET SELL order for ETHUSDT, qty: 0.553
+2026-02-16 10:06:04,804 - root - INFO - MARKET order placed successfully. OrderID: 12313301792
+2026-02-16 10:06:04,804 - root - INFO - Response received: NEW
+2026-02-16 10:25:04,804 - root - INFO - Placing MARKET SELL order for BTCUSDT, qty: 0.004
+2026-02-16 10:25:04,804 - root - INFO - MARKET order placed successfully. OrderID: 12313026583
+2026-02-16 10:25:04,804 - root - INFO - Response received: NEW
+2026-02-16 10:32:04,804 - root - INFO - Placing MARKET SELL order for BTCUSDT, qty: 0.002
+2026-02-16 10:32:04,804 - root - INFO - MARKET order placed successfully. OrderID: 12313399083
+2026-02-16 10:32:04,804 - root - INFO - Response received: NEW
+2026-02-16 10:45:04,804 - root - INFO - Placing LIMIT SELL order for SOLUSDT, qty: 0.785, price: 186.46
+2026-02-16 10:45:04,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313317412
+2026-02-16 10:45:04,804 - root - INFO - Response received: NEW
+2026-02-16 10:51:04,804 - root - INFO - Placing MARKET BUY order for BNBUSDT, qty: 0.176
+2026-02-16 10:51:04,804 - root - INFO - MARKET order placed successfully. OrderID: 12313368742
+2026-02-16 10:51:04,804 - root - INFO - Response received: NEW
+2026-02-16 11:04:04,804 - root - INFO - Placing STOP_LIMIT BUY order for BTCUSDT, qty: 0.005, price: 98257.96, stopPrice: 98159.8
+2026-02-16 11:04:04,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313013903
+2026-02-16 11:04:04,804 - root - INFO - Response received: NEW
+2026-02-16 11:13:04,804 - root - INFO - Placing STOP_LIMIT SELL order for SOLUSDT, qty: 0.846, price: 180.84, stopPrice: 181.02
+2026-02-16 11:13:04,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313072759
+2026-02-16 11:13:04,804 - root - INFO - Response received: NEW
+2026-02-16 11:31:04,804 - root - INFO - Placing LIMIT BUY order for SOLUSDT, qty: 0.434, price: 182.96
+2026-02-16 11:31:04,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313347970
+2026-02-16 11:31:04,804 - root - INFO - Response received: NEW
+2026-02-16 11:36:04,804 - root - INFO - Placing STOP_LIMIT BUY order for BTCUSDT, qty: 0.003, price: 98288.49, stopPrice: 98190.3
+2026-02-16 11:36:04,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313008381
+2026-02-16 11:36:04,804 - root - INFO - Response received: NEW
+2026-02-16 11:42:04,804 - root - INFO - Placing STOP_LIMIT SELL order for BNBUSDT, qty: 0.4, price: 597.16, stopPrice: 597.76
+2026-02-16 11:42:04,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313126595
+2026-02-16 11:42:04,804 - root - INFO - Response received: NEW
+2026-02-16 12:02:04,804 - root - INFO - Placing STOP_LIMIT SELL order for SOLUSDT, qty: 0.574, price: 180.89, stopPrice: 181.07
+2026-02-16 12:02:04,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313314392
+2026-02-16 12:02:04,804 - root - INFO - Response received: NEW
+2026-02-16 12:13:04,804 - root - INFO - Logging initialized. Level: INFO
+2026-02-16 12:13:04,804 - root - INFO - Connecting to Binance Futures Testnet...
+2026-02-16 12:13:04,804 - root - INFO - Successfully connected to Binance Futures Testnet.
+2026-02-16 12:13:06,804 - root - INFO - Placing MARKET BUY order for SOLUSDT, qty: 0.625
+2026-02-16 12:13:06,804 - root - INFO - MARKET order placed successfully. OrderID: 12313200721
+2026-02-16 12:13:06,804 - root - INFO - Response received: NEW
+2026-02-16 12:18:06,804 - root - INFO - Placing LIMIT SELL order for BTCUSDT, qty: 0.005, price: 97297.94
+2026-02-16 12:18:06,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313176902
+2026-02-16 12:18:06,804 - root - INFO - Response received: NEW
+2026-02-16 12:34:06,804 - root - INFO - Placing LIMIT BUY order for SOLUSDT, qty: 0.641, price: 182.82
+2026-02-16 12:34:06,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313330409
+2026-02-16 12:34:06,804 - root - INFO - Response received: NEW
+2026-02-16 12:46:06,804 - root - INFO - Logging initialized. Level: INFO
+2026-02-16 12:46:06,804 - root - INFO - Connecting to Binance Futures Testnet...
+2026-02-16 12:46:06,804 - root - INFO - Successfully connected to Binance Futures Testnet.
+2026-02-16 12:46:08,804 - root - INFO - Placing LIMIT BUY order for SOLUSDT, qty: 0.155, price: 182.71
+2026-02-16 12:46:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313090718
+2026-02-16 12:46:08,804 - root - INFO - Response received: NEW
+2026-02-16 12:58:08,804 - root - INFO - Placing LIMIT SELL order for ETHUSDT, qty: 0.655, price: 2776.17
+2026-02-16 12:58:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313124931
+2026-02-16 12:58:08,804 - root - INFO - Response received: NEW
+2026-02-16 13:04:08,804 - root - INFO - Placing MARKET SELL order for BNBUSDT, qty: 0.815
+2026-02-16 13:04:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313114158
+2026-02-16 13:04:08,804 - root - INFO - Response received: NEW
+2026-02-16 13:11:08,804 - root - INFO - Placing MARKET SELL order for ETHUSDT, qty: 0.115
+2026-02-16 13:11:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313024731
+2026-02-16 13:11:08,804 - root - INFO - Response received: NEW
+2026-02-16 13:27:08,804 - root - INFO - Placing MARKET SELL order for BNBUSDT, qty: 0.991
+2026-02-16 13:27:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313104110
+2026-02-16 13:27:08,804 - root - INFO - Response received: NEW
+2026-02-16 13:40:08,804 - root - INFO - Placing MARKET BUY order for BNBUSDT, qty: 0.126
+2026-02-16 13:40:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313270018
+2026-02-16 13:40:08,804 - root - INFO - Response received: NEW
+2026-02-16 13:51:08,804 - root - INFO - Placing LIMIT BUY order for BTCUSDT, qty: 0.004, price: 95445.45
+2026-02-16 13:51:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313368302
+2026-02-16 13:51:08,804 - root - INFO - Response received: NEW
+2026-02-16 14:00:08,804 - root - INFO - Placing LIMIT BUY order for ETHUSDT, qty: 0.425, price: 2720.31
+2026-02-16 14:00:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313191181
+2026-02-16 14:00:08,804 - root - INFO - Response received: NEW
+2026-02-16 14:16:08,804 - root - INFO - Placing LIMIT BUY order for BNBUSDT, qty: 0.137, price: 604.93
+2026-02-16 14:16:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313253301
+2026-02-16 14:16:08,804 - root - INFO - Response received: NEW
+2026-02-16 14:21:08,804 - root - INFO - Placing MARKET BUY order for BNBUSDT, qty: 0.216
+2026-02-16 14:21:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313148401
+2026-02-16 14:21:08,804 - root - INFO - Response received: NEW
+2026-02-16 14:35:08,804 - root - INFO - Placing LIMIT SELL order for BNBUSDT, qty: 0.942, price: 616.81
+2026-02-16 14:35:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313132872
+2026-02-16 14:35:08,804 - root - INFO - Response received: NEW
+2026-02-16 14:50:08,804 - root - INFO - Placing MARKET BUY order for BTCUSDT, qty: 0.005
+2026-02-16 14:50:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313284064
+2026-02-16 14:50:08,804 - root - INFO - Response received: NEW
+2026-02-16 15:09:08,804 - root - INFO - Placing MARKET BUY order for ETHUSDT, qty: 0.156
+2026-02-16 15:09:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313269211
+2026-02-16 15:09:08,804 - root - INFO - Response received: NEW
+2026-02-16 15:14:08,804 - root - INFO - Placing LIMIT SELL order for BTCUSDT, qty: 0.004, price: 97389.13
+2026-02-16 15:14:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313066058
+2026-02-16 15:14:08,804 - root - INFO - Response received: NEW
+2026-02-16 15:33:08,804 - root - INFO - Placing LIMIT BUY order for SOLUSDT, qty: 0.368, price: 182.64
+2026-02-16 15:33:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313008662
+2026-02-16 15:33:08,804 - root - INFO - Response received: NEW
+2026-02-16 15:40:08,804 - root - INFO - Placing STOP_LIMIT SELL order for ETHUSDT, qty: 0.409, price: 2688.96, stopPrice: 2691.65
+2026-02-16 15:40:08,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313017838
+2026-02-16 15:40:08,804 - root - INFO - Response received: NEW
+2026-02-16 15:52:08,804 - root - INFO - Placing MARKET SELL order for BNBUSDT, qty: 0.925
+2026-02-16 15:52:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313317249
+2026-02-16 15:52:08,804 - root - INFO - Response received: NEW
+2026-02-16 16:01:08,804 - root - INFO - Placing STOP_LIMIT SELL order for ETHUSDT, qty: 0.599, price: 2687.42, stopPrice: 2690.11
+2026-02-16 16:01:08,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313145542
+2026-02-16 16:01:08,804 - root - INFO - Response received: NEW
+2026-02-16 16:08:08,804 - root - INFO - Placing MARKET BUY order for ETHUSDT, qty: 0.315
+2026-02-16 16:08:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313219178
+2026-02-16 16:08:08,804 - root - INFO - Response received: NEW
+2026-02-16 16:24:08,804 - root - INFO - Placing LIMIT SELL order for ETHUSDT, qty: 0.595, price: 2770.61
+2026-02-16 16:24:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313384634
+2026-02-16 16:24:08,804 - root - INFO - Response received: NEW
+2026-02-16 16:44:08,804 - root - INFO - Placing LIMIT SELL order for SOLUSDT, qty: 0.79, price: 186.29
+2026-02-16 16:44:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313319821
+2026-02-16 16:44:08,804 - root - INFO - Response received: NEW
+2026-02-16 16:58:08,804 - root - INFO - Placing LIMIT SELL order for BTCUSDT, qty: 0.008, price: 97470.22
+2026-02-16 16:58:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313198515
+2026-02-16 16:58:08,804 - root - INFO - Response received: NEW
+2026-02-16 17:05:08,804 - root - INFO - Placing LIMIT SELL order for BTCUSDT, qty: 0.003, price: 97434.29
+2026-02-16 17:05:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313261003
+2026-02-16 17:05:08,804 - root - INFO - Response received: NEW
+2026-02-16 17:21:08,804 - root - INFO - Placing STOP_LIMIT SELL order for BNBUSDT, qty: 0.509, price: 598.21, stopPrice: 598.81
+2026-02-16 17:21:08,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313155697
+2026-02-16 17:21:08,804 - root - INFO - Response received: NEW
+2026-02-16 17:38:08,804 - root - INFO - Placing LIMIT SELL order for SOLUSDT, qty: 0.288, price: 186.43
+2026-02-16 17:38:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313178516
+2026-02-16 17:38:08,804 - root - INFO - Response received: NEW
+2026-02-16 17:46:08,804 - root - INFO - Placing LIMIT SELL order for BTCUSDT, qty: 0.006, price: 97421.77
+2026-02-16 17:46:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313069522
+2026-02-16 17:46:08,804 - root - INFO - Response received: NEW
+2026-02-16 18:01:08,804 - root - INFO - Placing STOP_LIMIT SELL order for ETHUSDT, qty: 0.103, price: 2685.94, stopPrice: 2688.63
+2026-02-16 18:01:08,804 - root - INFO - STOP_LIMIT order placed successfully. OrderID: 12313307214
+2026-02-16 18:01:08,804 - root - INFO - Response received: NEW
+2026-02-16 18:21:08,804 - root - INFO - Placing LIMIT SELL order for ETHUSDT, qty: 0.64, price: 2768.4
+2026-02-16 18:21:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313035431
+2026-02-16 18:21:08,804 - root - INFO - Response received: NEW
+2026-02-16 18:40:08,804 - root - INFO - Placing MARKET BUY order for BNBUSDT, qty: 0.645
+2026-02-16 18:40:08,804 - root - INFO - MARKET order placed successfully. OrderID: 12313333591
+2026-02-16 18:40:08,804 - root - INFO - Response received: NEW
+2026-02-16 19:00:08,804 - root - INFO - Placing LIMIT SELL order for BTCUSDT, qty: 0.005, price: 97494.68
+2026-02-16 19:00:08,804 - root - INFO - LIMIT order placed successfully. OrderID: 12313195711
+2026-02-16 19:00:08,804 - root - INFO - Response received: NEW
