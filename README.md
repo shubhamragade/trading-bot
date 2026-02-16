@@ -1,84 +1,88 @@
-# Binance Futures Trading Bot (USDT-M)
+# 🤖 Binance Alpha | AI Trading Terminal
 
-A professional, recruiter-ready Python application for placing orders on the Binance Futures Testnet. This project demonstrates clean architecture, defensive programming, and a user-centric design.
+A high-maturity, recruiter-ready trading bot for the **Binance Futures Testnet (USDT-M)**. This project demonstrates advanced skills in **FastAPI**, **Streamlit**, **Manual Cryptographic Signing**, and **Conversational AI / Intent Parsing**.
 
-## Features
+## ⚡ Key Highlights (Recruiter Scorecard)
 
-- **Standard CLI**: Place orders via command-line arguments.
-- **Interactive Mode**: Guided terminal experience with prompts and confirmations.
-- **Web Dashboard**: Lightweight browser-based interface for order placement.
-- **Order Types**: Support for **MARKET**, **LIMIT**, and **STOP_LIMIT** orders.
-- **Security**: API keys are securely managed via environment variables.
-- **Error Handling**: Graceful handling of API errors, network failures, and invalid inputs.
-- **Logging**: Structured logs for all API interactions in `trading_bot/logs/trading.log`.
+- 🦾 **AI Chatbot Interface**: Replaced generic forms with an interactive, conversational terminal.
+- 🔐 **Zero-Library API Client**: Implemented manual **HMAC-SHA256** request signing to demonstrate deep protocol knowledge.
+- 🌐 **Distributed Architecture**: Multi-process setup with a **FastAPI** backend and **Streamlit** frontend.
+- 📉 **Real-Time Telemetry**: Live BTC price and USDT account balance tracking via REST polling.
+- 🛡️ **Defensive Engineering**: Triple-layer validation (Pydantic models, pre-API logic, and exchange error handling).
+- 🧪 **Safe Demo Mode**: Built-in **Simulation Mode** allows for a full UI walkthrough without requiring real API keys.
 
-## Architecture
+---
 
-The project follows a modular structure to ensure maintainability and readability:
+## 🏗️ Architecture
 
-- `bot/client.py`: Wrapper for the Binance API client.
-- `bot/orders.py`: Core logic for order placement and response formatting.
-- `bot/validators.py`: Input validation layer for defensive programming.
-- `bot/logging_config.py`: Centralized logging configuration.
-- `bot/cli.py`: CLI entry point (Standard & Interactive).
-- `bot/web_ui.py`: Flask-based web server.
-
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd trading_bot
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Configure Environment Variables**:
-   - Rename `.env.example` to `.env`.
-   - Add your Binance Futures Testnet API Key and Secret.
-   ```env
-   BINANCE_API_KEY=your_api_key
-   BINANCE_API_SECRET=your_secret
-   ```
-
-## Usage Examples
-
-### 1. Standard CLI Mode
-Ensure you are in the `trading_bot` root directory.
-```bash
-python -m bot.cli --symbol BTCUSDT --side BUY --type MARKET --quantity 0.01
+```text
+trading_bot/
+├── bot/
+│   ├── api.py           # FastAPI Backend (REST API)
+│   ├── st_app.py        # Streamlit Frontend (Conversational UI)
+│   ├── parser.py        # AI Intent Parser (Natural Language Extraction)
+│   ├── client.py        # Manual REST client with HMAC-SHA256 signing
+│   ├── orders.py        # Transaction logic & response formatting
+│   ├── validators.py    # Multi-layered input validation
+│   └── logging_config.py# Centralized structured logging
+├── logs/                # Trade execution logs (trading.log)
+├── README.md            # You are here
+├── requirements.txt     # Dependency list
+└── .env.example         # Template for secure credentials
 ```
 
-### 2. Interactive Mode (Recommended)
+---
+
+## 🚀 Quick Start
+
+### 1. Installation
 ```bash
-python -m bot.cli --interactive
+git clone https://github.com/shubhamragade/trading-bot.git
+cd trading_bot
+pip install -r requirements.txt
 ```
 
-### 3. Web UI Mode (FastAPI + Streamlit)
+### 2. Configuration
+Create a `.env` file from the example:
+```bash
+cp .env.example .env
+```
+Add your **Binance Futures Testnet** keys:
+```env
+BINANCE_API_KEY=your_key
+BINANCE_API_SECRET=your_secret
+SIMULATION_MODE=False
+```
 
-**Start the Backend**:
+### 3. Execution
+You need to run both the backend and the frontend:
+
+**Terminal 1 (Backend API):**
 ```bash
 uvicorn bot.api:app --reload
 ```
 
-**Start the Frontend**:
+**Terminal 2 (AI Dashboard):**
 ```bash
 streamlit run bot/st_app.py
 ```
-Then open the Streamlit URL provided in the terminal (usually `http://localhost:8501`).
 
-## Error Handling & Validation
-The bot performs several checks before sending orders:
-- **FastAPI Validation**: Uses Pydantic to ensure data types are correct.
-- **Pre-API Logic**: Ensures quantity and prices are positive.
-- **Binance API Errors**: Displays specific messages for exchange-side failures.
+---
 
-## Architecture
-- `bot/api.py`: FastAPI backend server.
-- `bot/st_app.py`: Streamlit frontend dashboard.
-- `bot/client.py`: Binance connection wrapper.
-- `bot/orders.py`: Transaction logic.
-- `bot/validators.py`: Input safety checks.
+## 🤖 Interaction Examples
+
+Once the dashboard is open, try these natural language commands:
+
+- **Market Orders**: *"Go long 0.002 BTC"* or *"Short 0.5 ETH at market"*
+- **Limit Orders**: *"Buy 0.01 BTC at 45000"* or *"Limit sell 1 SOL at 150"*
+- **Stop-Limit Orders**: *"Stop limit buy 0.005 BTC price 111000 trigger 110000"*
+
+---
+
+## 🛡️ Stability & Quality
+- **Type Hinting**: Fully typed codebase for IDE support and maintenance.
+- **Structured Logging**: All trades, connections, and rejections are logged in `logs/trading.log`.
+- **Validation**: Prevents negative quantities, invalid prices, and notional floor violations.
+
+---
+Developed as a demonstration of high-level Python Engineering & Fintech Innovation.
